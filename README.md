@@ -1,3 +1,17 @@
+## Login Detail
+https://courses.thetestingacademy.com/courses
+
+spmehta93@gmail.com
+saurabh@93
+
+## Python Detail
+1. Python Roadmap 2024  - https://sdet.live/python-roadmap
+2. Python Notes - https://sdet.live/python-notes
+3. Python Selenium Notes - https://sdet.live/python-selenium
+4. Python Topics in Py Batch - https://sdet.live/pytopics
+5. Gen AI - https://sdet.live/genai
+ 
+### Testing Detail
 1. Figma Link (Python Summary)
 https://www.figma.com/board/WNMvJnUWjS8XJvWSbzNI8H/Python-3x-Plan-and-Notes?node-id=0-1
 
